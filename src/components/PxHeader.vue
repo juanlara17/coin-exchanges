@@ -7,7 +7,7 @@
           <router-link
             :to="{ name: 'home' }"
             class="font-semibold text-xl tracking-tight"
-            >Coin Exchange</router-link
+            >Coin Exchanges</router-link
           >
         </div>
         <div
